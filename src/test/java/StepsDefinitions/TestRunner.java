@@ -11,7 +11,7 @@ import io.cucumber.junit.CucumberOptions;
 		//plugin= {"pretty","html:target/CucumberReports.html","json:target/JSONReports/report.json"}
 		plugin= {"pretty","json:target/cucumber.json"},
 		
-		tags ="@Google01"
+		tags ="@Restassured01"
 
 		)
 
